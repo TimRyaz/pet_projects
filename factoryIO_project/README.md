@@ -1,6 +1,12 @@
 В этой папке лежит проект сортировочного участка с производством из сырья с использованием программы Factory IO и Control IO.
 
-<video src="factory_content/factory_video.mp4" autoplay loop muted playsinline width="100%"></video>
+
+
+
+https://github.com/user-attachments/assets/9fa06a69-37ac-4928-bf52-33ba73116e26
+
+
+<video src="https://github.com/user-attachments/assets/9fa06a69-37ac-4928-bf52-33ba73116e26" autoplay loop muted playsinline width="100%"></video>
 
 <details>
 <summary><b>Показать код для сортировки по цвету (кликните, чтобы раскрыть)</b></summary>
