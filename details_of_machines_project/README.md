@@ -7,7 +7,7 @@
 5) подобрать вал барабана и подшипники.
 
 <details>
-<summary><b>Показать код для сортировки по цвету (кликните, чтобы раскрыть)</b></summary>
+<summary><b>Показать общий вид привода (кликните, чтобы раскрыть)</b></summary>
 
-![Код 1](factory_content/code_for_color_sorting.jpg)
+![Код 1](det_mach_content/detmach_content-1.png)
 </details>
